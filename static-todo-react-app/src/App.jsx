@@ -7,6 +7,7 @@ function App() {
 
   return (
     <>
+      <h1>User Profiles</h1>
       <ProfileContainer />        
     </>
   )
